@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Tutorial_4</string>
+    <string name="button1_text">tikla1</string>
+    <string name="button2_text">tikla2</string>
+    <string name="button3_text">tikla3</string>
+    <string name="button4_text">tikla4</string>
+    <string name="profil">Profil</string>
+    <string name="settings">Ayarlar</string>
+    <string name="log_out">Oturumu kapat</string>
+</resources>

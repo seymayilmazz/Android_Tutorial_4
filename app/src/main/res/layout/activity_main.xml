@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.tutorial.android_tutorial_4.MainActivity">
+
+
+
+    <Button
+        android:id="@+id/tikla1Button"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="@string/button1_text"
+        android:textColor="@color/colorRed"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/tikla2Button"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="@string/button2_text"
+        android:textColor="@color/colorOrange"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/tikla3Button"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="@string/button3_text"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+    <Button
+        android:id="@+id/tikla4Button"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="@string/button4_text"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

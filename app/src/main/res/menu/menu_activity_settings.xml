@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_duzenle"
+        app:showAsAction="never"
+        android:title="Düzenle"/>
+    <item
+        android:id="@+id/action_sifirla"
+        app:showAsAction="never"
+        android:title="Sıfırla"/>
+</menu>
